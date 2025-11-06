@@ -1,2 +1,3 @@
-# reloj-arena-digital
-reloj-arena-digital
+# Reloj de Arena Digital
+
+Proyecto para crear un reloj de arena digital interactivo.
